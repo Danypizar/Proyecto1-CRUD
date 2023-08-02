@@ -20,7 +20,7 @@ const deleteClient = (index) => {
 }
 
 
-                 // CRUD - UPDATE
+// CRUD - UPDATE
 const updateClient = (index, client) => {
     const dbClient = readClient()
     dbClient[index] = client
@@ -152,3 +152,5 @@ document.querySelector('#tableClient>tbody')
 
 document.getElementById('cancelar')
     .addEventListener('click', closeModal)
+
+
