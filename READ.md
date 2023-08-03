@@ -4,7 +4,6 @@
 # Daniela Pizar
 
 
-
 - Las secciones siguientes:
 
 C - Create ("Crear")
@@ -25,4 +24,5 @@ Este Sitio [GitHub Pages proyect CRUD](https://github.com/Danypizar/Proyecto1-CR
 [Se puede Visualizar en]()
 
 ![Planeacion de proyecto ](./assets/CRUD.png)hi
-
+!Este Sitio [GitHub Pages proyect CRUD] ( ).
+Este Sitio [Sitio Funcionando](https://cozy-horse-948310.netlify.app/).
